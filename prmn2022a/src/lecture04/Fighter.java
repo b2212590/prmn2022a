@@ -35,7 +35,7 @@ public class Fighter {
     }
 
     void setHitPoint(int hitPoint){
-
+        this.hitPoint = hitPoint;
     }
 
     static String getName(){
